@@ -1,0 +1,2 @@
+class Vtc < ApplicationRecord
+end
